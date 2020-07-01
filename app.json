@@ -5,6 +5,14 @@
     "name": "test_2",
     "slug": "test_2",
     "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "none",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "none.company",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
